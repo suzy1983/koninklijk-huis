@@ -1,0 +1,208 @@
+
+/*_____________MAIN MENU________________*/
+
+.nice-menu-hide-title{
+	display:none;
+	padding:0;
+	margin:0;
+	height:0;
+}
+
+#block-search-form{
+	display:inline-block;
+	width: 180px;
+	height:35px;
+	float:right;
+	padding:0px;
+	margin:0;
+	
+}
+
+
+#block-nice-menus-1{
+	display:inline-block;
+	width: 600px;
+	height: 35px;
+	float:left;
+	padding:0;
+	margin:0;
+	
+}
+
+#nice-menu-1{
+	margin:-15px 0 0 0;
+	padding:0px;
+	margin-left:12px;
+	
+	
+}
+
+#nice-menu-1 li {
+border:0px;
+
+}
+
+#nice-menu-1 li a{
+  background: #3e5076;
+	color:white;
+	text-shadow:none;
+	border:0px;
+	
+}
+
+ul.nice-menu{
+	background: #3e5076;
+	color:white;
+}
+
+
+/*______Navigation menu NIEUWS______________*/
+
+#block-menu-menu-navigation-nieuws{
+	background:white;
+	font-size: 1.333em;
+	font-family: TheSerifHP5Plain, Arial, sans-serif;
+	padding:0;
+	margin:0;
+	
+	
+}
+
+#block-menu-menu-navigation-nieuws ul{
+	padding:0;
+	margin:0;
+}
+
+#block-menu-menu-navigation-nieuws h2{
+	display:none;
+	padding:0;
+	margin:0;
+	height:0;
+}
+
+#block-menu-menu-navigation-nieuws li{
+	background:white;
+	border-bottom: 1px solid #8992A5;
+
+}
+
+/* ___________list style verwijderen____*/
+
+.menu .leaf{
+list-style-type:none;
+list-style-image:none;
+}
+
+
+/*______Navigation menu AGENDA______________*/
+
+#block-menu-menu-navigation-agenda{
+	background:white;
+	font-size: 1.333em;
+	font-family: TheSerifHP5Plain, Arial, sans-serif;
+	padding:0;
+	margin:0;
+	
+}
+
+#block-menu-menu-navigation-agenda ul{
+	padding:0;
+	margin:0;
+}
+
+#block-menu-menu-navigation-agenda h2{
+	display:none;
+	padding:0;
+	margin:0;
+	height:0;
+}
+
+#block-menu-menu-navigation-agenda li{
+	background:white;
+	border-bottom: 1px solid #8992A5;
+	list-style-type:none;
+}
+
+/*_______________________SLIDESHOW HIGHLITED______________________*/
+
+.views-field-field-foto-nieuws{
+	width:560px;
+	height:300px;
+	float:right;
+	margin:0;
+	padding:0;
+	
+}
+
+#highlighted .views-field-body{
+	background:#3e5074;
+	color:white;
+	width:400px;
+	height:300px;
+	float:left;
+	margin:0;
+	
+	
+}
+
+
+#block-views-slideshow-block{
+	margin:0;
+	padding:0;
+}
+
+/*__________________SLIDESHOW TRIPTYCH LAST__________________________*/
+
+.vieuw_foto_s_frontpage .views-field-field-foto-nieuws{
+	display:none;
+	visibility:hidden;
+	height:0;
+	width:0;
+	background:red;
+}
+
+#views_slideshow_cycle_foto_s_frontpage_block{
+	display:hidden;
+	visibility:hidden
+	height:0;
+	width:0;
+}
+
+
+/*___________________triptych first en middle____________________*/
+
+.view-agenda-frontpage .views-row-even {
+	background:#eff2f9;
+	margin-bottom:2px;
+}
+
+.view-agenda-frontpage .views-row-odd {
+	background:#eff2f9;
+	margin-bottom:2px;
+}
+
+.view-nieuwsberichten-frontpage .views-row-odd{
+	background:#eff2f9;
+	margin-bottom:2px;
+}
+
+.view-nieuwsberichten-frontpage .views-row-even{
+	background:#eff2f9;
+	margin-bottom:2px;
+}
+
+#triptych-wrapper{
+	background:white;
+	}
+	
+
+.more-link{
+	
+	background: url('../images/sprite_button.png') no-repeat 0 -22px;
+	height: 22px;
+	color: white;
+	float:left;
+	margin-top:8px;
+	width:120px;
+	
+	}
